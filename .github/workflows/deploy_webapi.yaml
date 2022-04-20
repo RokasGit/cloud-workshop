@@ -16,7 +16,7 @@ on:
 
 # Global environment variables
 env:
-  APPLICATION_NAME: Cloudworkshoprokas2022
+  APPLICATION_NAME: cloud-workshop-rokas2022
   ENVIRONMENT_NAME: Cloudworkshoprokas2022-env
   AWS_REGION: eu-west-1
 
